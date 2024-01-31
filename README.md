@@ -1,6 +1,6 @@
 # Landing Page: "Your Senses. Set Free."
 
-![Project Preview](https://drive.google.com/file/d/1CBPAgqcqRl7ecaebI_mVfm2mHL6FaKc0/view?usp=drive_link)
+![Project Preview](https://drive.google.com/file/d/1CBPAgqcqRl7ecaebI_mVfm2mHL6FaKc0/view?usp=sharing)
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ This landing page was developed using the BEM methodology (Block-Element-Modifie
 
 ## Preview
 
-![Project Preview](https://drive.google.com/file/d/14srXYAzZQaMEU0ZqAMZcvTrVQp87SebY/view?usp=drive_link)
+![Project Preview](https://drive.google.com/file/d/14srXYAzZQaMEU0ZqAMZcvTrVQp87SebY/view?usp=sharing)
 
 ## Design Layout
 
