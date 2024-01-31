@@ -1,6 +1,6 @@
 # Landing Page: "Your Senses. Set Free."
 
-![Project Preview](https://Radymyr.github.io/bang_olufsen/)
+![Project Preview](https://drive.google.com/file/d/1CBPAgqcqRl7ecaebI_mVfm2mHL6FaKc0/view?usp=drive_link)
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ This landing page was developed using the BEM methodology (Block-Element-Modifie
 
 ## Preview
 
-![Project Preview](https://Radymyr.github.io/bang_olufsen/)
+![Project Preview](https://drive.google.com/file/d/14srXYAzZQaMEU0ZqAMZcvTrVQp87SebY/view?usp=drive_link)
 
 ## Design Layout
 
@@ -70,3 +70,6 @@ If you would like to contribute to the project, follow these steps:
 **License**
 
 This project is licensed under the GPL-3.0 License.
+
+[DEMO LINK](https://Radymyr.github.io/bang_olufsen/)
+
