@@ -21,6 +21,8 @@ The project is developed using the following technologies and tools:
 
 This landing page was developed using the BEM methodology (Block-Element-Modifier) for a structured and maintainable codebase. SCSS was used as the preprocessor to enhance stylesheet organization and maintainability.
 
+The landing page is designed to be responsive, ensuring a user-friendly experience across different devices and screen sizes.
+
 
 
 ## Preview
